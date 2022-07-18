@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	defaultBaseURL = "http://sonarqube.kubesphere.com/api/"
+	defaultBaseURL = "http://sonarqube.cloudbases.com/api/"
 	userAgent      = "devops server"
 )
 

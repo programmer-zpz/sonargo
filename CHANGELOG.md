@@ -9,5 +9,5 @@
 ## [0.0.1] - 2018-11-29
 ### Added
 
-- Release first version of [sonargo](https://github.com/kubesphere/sonargo)
+- Release first version of [sonargo](https://github.com/programmer-zpz/sonargo)
 - Add some integration-tests

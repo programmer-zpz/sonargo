@@ -5,9 +5,9 @@ import (
 	"os"
 	"testing"
 
-	. "github.com/kubesphere/sonargo/sonar"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
+	. "github.com/programmer-zpz/sonargo/sonar"
 )
 
 var client *Client

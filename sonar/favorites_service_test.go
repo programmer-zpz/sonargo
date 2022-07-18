@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	. "github.com/kubesphere/sonargo/sonar"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
+	. "github.com/programmer-zpz/sonargo/sonar"
 )
 
 var _ = Describe("SonarCLI integration test", func() {
